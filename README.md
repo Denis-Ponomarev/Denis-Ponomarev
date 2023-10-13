@@ -1,16 +1,17 @@
 ### Привет всем! 👋
 
-<!--
-**Denis-Ponomarev/Denis-Ponomarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Немного Обо мне:
+Я  - начинающий аналитик данных.
+Всегда хотел попробовать себя в IT)
+Успешно закончил курс я.практикум аналитик данных.
+Сейчас, после окончания курса в Яндексе, продолжаю обучение в это сфере на платформе "Stepik", "Karpov.courser".
 
-Here are some ideas to get you started:
+### Languages & Tools \ Языки и инструменты
+![python](https://img.shields.io/badge/-Python-69b5cc?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-PostgreSQL-69b5cc?style=for-the-badge&logo=postgreSQL)
+![JupiterNotebook](https://img.shields.io/badge/-Jupyter-69b5cc?style=for-the-badge&logo=jupyter)
+![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow Me \ Связаться со мной
+[![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:Ponomarev.D.D@yandex.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram)](https://t.me/Denis_Ponomarev13)
